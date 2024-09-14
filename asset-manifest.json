@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/food-villa-react/static/css/main.107f6a50.css",
+    "main.css": "/food-villa-react/static/css/main.283a444c.css",
     "main.js": "/food-villa-react/static/js/main.48e706af.js",
     "static/js/453.f7c51aa4.chunk.js": "/food-villa-react/static/js/453.f7c51aa4.chunk.js",
     "index.html": "/food-villa-react/index.html",
-    "main.107f6a50.css.map": "/food-villa-react/static/css/main.107f6a50.css.map",
+    "main.283a444c.css.map": "/food-villa-react/static/css/main.283a444c.css.map",
     "main.48e706af.js.map": "/food-villa-react/static/js/main.48e706af.js.map",
     "453.f7c51aa4.chunk.js.map": "/food-villa-react/static/js/453.f7c51aa4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.107f6a50.css",
+    "static/css/main.283a444c.css",
     "static/js/main.48e706af.js"
   ]
 }
